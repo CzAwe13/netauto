@@ -7,8 +7,8 @@
 你好
 
 
-test for git pull
+test for git pull: $git pull 
 
-test for push
+test for push, %git push origin master / main
 
-test for fetch/merge
+test for fetch/merge : $git fetch origin --> $git merge origin/master (or origin/main)
